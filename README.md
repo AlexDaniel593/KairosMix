@@ -6,7 +6,7 @@
 ![Vite](https://img.shields.io/badge/Vite-7.0.6-646CFF?style=for-the-badge&logo=vite)
 
 
-KairosMix es una aplicación web moderna y profesional para la gestión integral de un negocio de frutos secos premium. Desarrollada con React y Bootstrap, ofrece una interfaz intuitiva y funcionalidades completas para administrar productos, clientes, pedidos y crear mezclas personalizadas.
+KairosMix es una aplicación web para la gestión integral de un negocio de frutos secos premium. Desarrollada con React y Bootstrap, ofrece una interfaz intuitiva y funcionalidades completas para administrar productos, clientes, pedidos y crear mezclas personalizadas.
 
 ## 🌰 Características Principales
 
